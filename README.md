@@ -2,6 +2,8 @@
 <h3 align="center">Student at Technological University of Panama</h3>
 
 - Languages and Tools: Javascript, TypeScript, HTML, CSS, Python, C, NodeJS, React, and a willingness to learn much much more!✨
+
+- Fluent/Bilingual in Spanish and English
   
 - Notable Projects:
 
