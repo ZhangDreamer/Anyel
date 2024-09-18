@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Anyel! | Software Engineering Student </h1>
+<h1 align="center">Hello there, I'm Anyel! | Software Engineering Student💻 </h1>
 <h3 align="center">Student at Technological University of Panama</h3>
 
 - Languages and Tools: Javascript, TypeScript, HTML, CSS, Python, C, NodeJS, React, and a willingness to learn much much more!✨
