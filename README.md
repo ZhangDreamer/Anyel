@@ -5,7 +5,7 @@
   
 - Notable Projects:
 
-  - **Product Price Catalog Comparison Tool**: The system dynamically fetches product data from an external source and displays a sortable list of items with prices across multiple providers. Users can search and filter products in real time. <img align="center" src="https://i.imgur.com/Fe9mitw.png">
+  - **Product Price Catalog Comparison Tool**: The system dynamically fetches product data from an external database and displays a sortable list of items with prices across multiple providers. Users can search and filter products in real time. <img align="center" src="https://i.imgur.com/Fe9mitw.png">
 
   
   - **Discord TTRPG Bot**: A bot created from Javascript, NodeJS, Discord.js library and Mongoose Database. It includes commands related to managing a tabletop role-playing game (TTRPG) experience, focusing on user stats, experience points (XP), and dice rolling. <img align="center" src="https://i.imgur.com/fiRPX56.png">
