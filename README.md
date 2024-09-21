@@ -4,6 +4,8 @@
 - Languages and Tools: Javascript, TypeScript, HTML, CSS, Python, C, NodeJS, React, and a willingness to learn much much more!✨
 
 - Fluent/Bilingual in Spanish and English
+
+- Currently Learning/Practicing: Automated Tests, Hash, BackEnd System Designs and ReactNative
   
 - Notable Projects:
 
